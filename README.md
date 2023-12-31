@@ -1,1 +1,1 @@
-# NameGenerator
+# Authenticator
